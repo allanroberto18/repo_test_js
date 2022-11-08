@@ -1,0 +1,22 @@
+{
+  "name": "repo_test_js",
+  "version": "1.0.0",
+  "description": "1. Carregando as dependencias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanroberto18/repo_test_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanroberto18/repo_test_js/issues"
+  },
+  "homepage": "https://github.com/allanroberto18/repo_test_js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
