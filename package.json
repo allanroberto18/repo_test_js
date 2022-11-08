@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/allanroberto18/repo_test_js/issues"
   },
-  "homepage": "https://github.com/allanroberto18/repo_test_js#readme"
+  "homepage": "https://github.com/allanroberto18/repo_test_js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
