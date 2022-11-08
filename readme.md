@@ -2,4 +2,4 @@
 
 1. Carregando as dependencias
 
-`npm install
+`npm install`
